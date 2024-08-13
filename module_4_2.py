@@ -5,4 +5,4 @@ def test_function():
 
     
 # При вызове inner_function() вне test_function() будет ошибка,
-# т.к. inner_function() не находится в объемлющей зоне видимости функции test_function
+# т.к. inner_function() не находится в объемлющей области видимости функции test_function
